@@ -2,6 +2,7 @@
 db.collection.getIndexes()
 ==========================
 
+
 .. default-domain:: mongodb
 
 .. contents:: On this page
